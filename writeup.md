@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/processed.jpg "Original vs. Processed"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/web_signs.png "Traffic Signs from web"
+[image4]: ./examples/web_signs.jpg "Traffic Signs from web"
 [image5]: ./examples/placeholder.png "Traffic Sign 2"
 [image6]: ./examples/placeholder.png "Traffic Sign 3"
 [image7]: ./examples/placeholder.png "Traffic Sign 4"
